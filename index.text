@@ -18,7 +18,7 @@
     </div>
     <section class="banner">
         <header>
-            <h2 class="logo"<h1>>Keep Working</h1>
+            <h1 class="logo">Keep Working</h1>
             <div class="toggle" onclick="toggleMenu();"></div>
         </header>
         <video src="images/bg.mp4" muted loop autoplay></video>
